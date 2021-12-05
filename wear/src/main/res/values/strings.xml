@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Wear</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+    <array name="passAndLogin">
+        <item>a</item>
+        <item>a</item>
+        <item>b</item>
+        <item>b</item>
+        <item>c</item>
+        <item>c</item>
+        <item>d</item>
+        <item>d</item>
+        <item>e</item>
+        <item>e</item>
+        <item>f</item>
+        <item>f</item>
+        <item>g</item>
+        <item>g</item>
+        <item>h</item>
+        <item>h</item>
+        <item>i</item>
+        <item>i</item>
+        <item>j</item>
+        <item>j</item>
+    </array>
+</resources>

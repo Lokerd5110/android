@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Laba1</string>
+
+    <string-array name="emails">
+        <item> admin </item>
+        <item> admin2 </item>
+        <item> admin3 </item>
+        <item> admin4 </item>
+        <item> admin5 </item>
+    </string-array>
+
+    <string-array name="passwords">
+        <item> admin </item>
+        <item> admin2 </item>
+        <item> admin3 </item>
+        <item> admin4 </item>
+        <item> admin5 </item>
+    </string-array>
+
+    <string name="title_activity_main4">Main4Activity</string>
+    <string name="title_home">Список книг</string>
+    <string name="title_dashboard">Выбранная книга</string>
+
+    <string-array name="recycler_data">
+        <item>Книга 1</item>
+        <item>Книга 2</item>
+        <item>Книга 3</item>
+        <item>Книга 4</item>
+        <item>Книга 5</item>
+        <item>Книга 6</item>
+        <item>Книга 7</item>
+        <item>Книга 8</item>
+        <item>Книга 9</item>
+        <item>Книга 10</item>
+        <item>Книга 11</item>
+        <item>Книга 12</item>
+        <item>Книга 13</item>
+        <item>Книга 14</item>
+        <item>Книга 15</item>
+        <item>Книга 16</item>
+        <item>Книга 17</item>
+        <item>Книга 18</item>
+        <item>Книга 19</item>
+        <item>Книга 20</item>
+        <item>Книга 21</item>
+        <item>Книга 22</item>
+        <item>Книга 23</item>
+        <item>Книга 24</item>
+        <item>Книга 25</item>
+
+    </string-array>
+
+    <string-array name="recycler_data1">
+        <item>Автор 1</item>
+        <item>Автор 2</item>
+        <item>Автор 3</item>
+        <item>Автор 4</item>
+        <item>Автор 5</item>
+        <item>Автор 6</item>
+        <item>Автор 7</item>
+        <item>Автор 8</item>
+        <item>Автор 9</item>
+        <item>Автор 10</item>
+        <item>Автор 11</item>
+        <item>Автор 12</item>
+        <item>Автор 13</item>
+        <item>Автор 14</item>
+        <item>Автор 15</item>
+        <item>Автор 16</item>
+        <item>Автор 17</item>
+        <item>Автор 18</item>
+        <item>Автор 19</item>
+        <item>Автор 20</item>
+        <item>Автор 21</item>
+        <item>Автор 22</item>
+        <item>Автор 23</item>
+        <item>Автор 24</item>
+        <item>Автор 25</item>
+
+    </string-array>
+
+
+</resources>
